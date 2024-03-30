@@ -8,6 +8,6 @@ susceptible, infectada (casos activos) o retirada. Sean $s$, $i$, $r$ las fracci
 susceptibles, infectadas o retiradas, respectivamente ($s + i + r = 1$). Asumamos que, a cada
 momento, la cantidad de susceptibles que se infecta por unidad de tiempo es proporcional a la
 cantidad e susceptibles multiplicada por la cantidad de infectados, $\beta si$, donde $\beta$ es una constante que nos dice qué tan contagiosa es la enfermedad. Por el contrario, la cantidad de infectados que dejan de serlo por unidad de tiempo es solamente proporcional al número de infectados, $\gamma i$, donde $1/\gamma$ da el tiempo característico de recuperación. Las ecuaciones diferenciales acopladas que rigen el comportamiento son, por lo tanto:
-*$\frac{ds}{dt}$ $= -\beta \ si$
-*$\frac{di}{dt} = \beta si - \gamma i$
+* $\frac{ds}{dt}$ $= -\beta \ si$
+* $\frac{di}{dt} = \beta si - \gamma i$
 *
